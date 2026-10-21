@@ -1,5 +1,6 @@
 # 人工智能概论 · 第 1 次作业
 
+> 提交前请把下面的 `xx` 替换为自己的姓名、学号和班级，并补上你真实做过的修改与验证记录。不要删掉仓库里以前的作业内容；后续作业继续追加在本文件末尾。
 
 <div align="center">
   <h1>我的 AI 学习档案</h1>
@@ -8,8 +9,8 @@
 
 ## 个人信息
 
-- 姓名 孙辰 学号：2662404036
-- 班级：2班
+- 姓名 / 学号：xx / xx
+- 班级：xx
 - GitHub 用户名：abqus
 - 仓库地址：https://github.com/abqus/--1
 - GitHub Pages 预期地址：<https://abqus.github.io/--1/>（启用 Pages 后确认可访问）
@@ -22,11 +23,19 @@
 
 ## 2. 我做了什么
 
-我先阅读作业说明，整理必须提交的个人信息和 README 内容，再制作个人介绍页。页面包含个人档案、项目记录、AI 协作说明和学习反思。我提供了本次作业背景，并附上梳理需求时的过程截图。
+我先阅读作业说明，整理必须提交的个人信息和 README 内容，再制作个人介绍页。页面包含个人档案、项目记录、AI 协作说明和学习反思。我提供了本次作业背景，并附上最初提供的三张 AI 工具截图。
 
 网页采用深色背景、蓝青色光效和卡片布局，内容分成个人档案、探索方向、脚本记录、过程反思几个部分。这样的结构让我可以先简要介绍自己，再展示正在做的事情，最后说明使用 AI 的方式和自己的收获。姓名、学号和班级目前用 `xx` 占位，提交前需要换成真实信息。
 
-<img src="assets/ai-planning.png" alt="使用 ChatGPT 梳理作业要求的过程截图" width="760">
+### AI 工具使用截图
+
+下图记录了我使用 DeepSeek Harness、ChatGPT 和 WorkBuddy 的过程。截图中可见的账号标识、余额和疑似密码区域已遮挡。
+
+<div align="center">
+  <img src="assets/dsh-session.png" alt="DeepSeek Harness 工具界面截图，隐去账号标识和余额" width="32%">
+  <img src="assets/ai-planning.png" alt="使用 ChatGPT 梳理作业要求的过程截图" width="32%">
+  <img src="assets/workbuddy.png" alt="WorkBuddy 操作界面截图，隐去无关个人记录和密码信息" width="32%">
+</div>
 
 页面文件是 `index.html`，配图放在 `assets/ai-planning.png`。我准备使用 GitHub Pages 发布页面，让网页可以通过链接直接访问。启用后，可确认 <https://abqus.github.io/--1/> 是否能打开；若仓库设置生成了不同地址，应以 Pages 页面显示的地址为准。
 
