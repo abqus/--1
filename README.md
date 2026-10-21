@@ -9,11 +9,11 @@
 
 ## 个人信息
 
-- 姓名孙辰 / 学号：2662404036
-- 班级：2班
+- 姓名 / 学号：xx / xx
+- 班级：xx
 - GitHub 用户名：abqus
 - 仓库地址：https://github.com/abqus/--1
-- GitHub Pages 预期地址：<https://abqus.github.io/work1/>（启用 Pages 后确认可访问）
+- GitHub Pages 预期地址：<https://abqus.github.io/--1/>（启用 Pages 后确认可访问）
 
 ## 1. 任务
 
@@ -29,7 +29,7 @@
 
 <img src="assets/ai-planning.png" alt="使用 ChatGPT 梳理作业要求的过程截图" width="760">
 
-页面文件是 `index.html`，配图放在 `assets/ai-planning.png`。我准备使用 GitHub Pages 发布页面，让网页可以通过链接直接访问。启用后，可确认 <https://abqus.github.io/work1/> 是否能打开；若仓库设置生成了不同地址，应以 Pages 页面显示的地址为准。
+页面文件是 `index.html`，配图放在 `assets/ai-planning.png`。我准备使用 GitHub Pages 发布页面，让网页可以通过链接直接访问。启用后，可确认 <https://abqus.github.io/--1/> 是否能打开；若仓库设置生成了不同地址，应以 Pages 页面显示的地址为准。
 
 ## 3. 卡在哪 / 我的判断
 
