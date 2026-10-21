@@ -9,8 +9,8 @@
 
 ## 个人信息
 
-- 姓名 / 学号：xx / xx
-- 班级：xx
+- 姓名 孙辰 学号：2662404036
+- 班级：2班
 - GitHub 用户名：abqus
 - 仓库地址：https://github.com/abqus/--1
 - GitHub Pages 预期地址：<https://abqus.github.io/--1/>（启用 Pages 后确认可访问）
